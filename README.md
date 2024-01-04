@@ -1,14 +1,17 @@
 # 从开题到离校——南京理工大学博士毕业之路
 
-这个文件夹里包含了南京理工大学博士生从开题到离校所需要的所有材料和详细流程，由以下几个部分构成：
+Fork from [njustPhDRoad](https://github.com/Bingwen-Hu/njustPhDRoad) with some update
 
-- proposal/ 包含了开题所需的材料和流程
-- dissertation/ 包含了南京理工大学博士论文模板
-- predefense/ 包含了预答辩所需材料和流程
-- review/ 包含了送审所需材料和流程
-- defense/ 包含了答辩所需材料和流程
-- committee/ 包含了上会所需材料和流程
-- leave/ 包含了离校所需材料和流程
+这个文件夹里包含了南京理工大学博士生从开题到离校所需要的所有材料和详细流程，由以下几个部分构成：
+- [x] 代表经我验证过
+
+- [ ] proposal/ 包含了开题所需的材料和流程
+- [ ] dissertation/ 包含了南京理工大学博士论文模板
+- [ ] predefense/ 包含了预答辩所需材料和流程
+- [ ] review/ 包含了送审所需材料和流程
+- [ ] defense/ 包含了答辩所需材料和流程
+- [ ] committee/ 包含了上会所需材料和流程
+- [ ] leave/ 包含了离校所需材料和流程
 
 ## 开题-proposal
 按照如下步骤进行开题
